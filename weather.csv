@@ -1,5 +1,5 @@
 date,city,temperature_c,humidity,wind_speed,rainfall_mm
-2026-01-01,mogadishu,31,75,12,0
+2026-01-01,mogadishu            ,31,75,12,0
 2026-01-02,mogadishu,32,78,,0
 2026-01-03,kismayo,,80,15,1
 2026-01-04,Mogadishu,34,82,14,0
