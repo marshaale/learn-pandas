@@ -1,11 +1,11 @@
 date,city,temperature_c,humidity,wind_speed,rainfall_mm
-2026-01-01,Mogadishu,31,75,12,0
-2026-01-02,Mogadishu,32,78,,0
-2026-01-03,Kismayo,,80,15,1
+2026-01-01,mogadishu,31,75,12,0
+2026-01-02,mogadishu,32,78,,0
+2026-01-03,kismayo,,80,15,1
 2026-01-04,Mogadishu,34,82,14,0
 2026-01-05,Jowhar,35,85,16,0
 2026-01-06,Mogadishu,33,NA,13,2
 2026-01-07,Kismayo,31,77,abc,0
-2026-01-08,Afgoye,,79,11,0
+2026-01-08,afgoye,,79,11,0
 2026-01-09,Balcad,30,76,10,
 2026-01-10,Mogadishu,29,74,9,0
